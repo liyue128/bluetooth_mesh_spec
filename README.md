@@ -1,1 +1,2 @@
-# bluetooth_mesh_spec
+# 蓝牙MESH协议笔记
+
